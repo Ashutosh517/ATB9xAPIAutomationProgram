@@ -4,5 +4,8 @@ public class APITesting002 {
     public static void main(String[] args) {
 
         // Gherkins Syntax
+        // Given()
+        // When()
+        // Then()
     }
 }
