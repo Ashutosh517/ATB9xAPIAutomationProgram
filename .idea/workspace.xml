@@ -4,29 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="556fc1e1-e822-47f9-8a4c-4225e62e3a45" name="Changes" comment="GET - All">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_RestAssuredBasics/DELETE/APITesting012_DELETE_NONBddStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_RestAssuredBasics/PATCH/APITesting011_PATCH_NONBddStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_RestAssuredBasics/POST/APITesting009_POST_NonBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_RestAssuredBasics/POST/APITesting010_POST_BDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_RestAssuredBasics/PUT/APITesting011_PUT_NONBddStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting012_TestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting013_TestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting014_TestNG_Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting015_TestNG_Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting016_TestNG_DependsOnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting017_TestNG_Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting018_TestNG_Enabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting019_TestNG_AlwaysRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_testNGExamples/APITesting020_TestNG_invocationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-BDD-POST.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-group-prod.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-group-qa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-group-reg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-group-sanity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-param-chrome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-param-firefox.xml" afterDir="false" />
+    <list default="true" id="556fc1e1-e822-47f9-8a4c-4225e62e3a45" name="Changes" comment="GET - All 13 dec">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting021_RestAssured_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting022_TestNG_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting023_RestAssertJ_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting024_RestAssured_TestNG_AssertJ_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/APITesting025_RestAssured_Payload_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/APITesting025_RestAssured_Payload_POJO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson/BookingDates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +81,13 @@
     "TestNG.APITesting019_TestNG_AlwaysRun.executor": "Run",
     "TestNG.APITesting019_TestNG_AlwaysRun.test03.executor": "Run",
     "TestNG.APITesting020_TestNG_invocationCount.executor": "Run",
+    "TestNG.APITesting021_RestAssured_Assertions.executor": "Run",
+    "TestNG.APITesting022_TestNG_Assertions.executor": "Run",
+    "TestNG.APITesting022_TestNG_Assertions.test_softAssertExample.executor": "Run",
+    "TestNG.APITesting025_RestAssured_Payload_Map.test_POST.executor": "Run",
+    "TestNG.APITesting025_RestAssured_Payload_POJO.executor": "Run",
+    "TestNG.APITesting025_RestAssured_Payload_Strings.executor": "Run",
+    "TestNG.APITesting025_RestAssured_Payload_Strings.test_POST.executor": "Run",
     "TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-BDD-POST.xml.executor": "Run",
     "TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-NonBDD-GET.xml.executor": "Run",
     "TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-group-prod.xml.executor": "Run",
@@ -112,22 +109,24 @@
       <recent name="C:\Users\ashut\IdeaProjects\ATB9xAPIAutomationProgram" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex05_payLoadManagement" />
+      <recent name="com.thetestingacademy.ex03_Assertions" />
       <recent name="com.thetestingacademy.ex04_testNGExamples" />
       <recent name="com.thetestingacademy.ex02_RestAssuredBasics.DELETE" />
       <recent name="com.thetestingacademy.ex02_RestAssuredBasics.PATCH" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.APITesting020_TestNG_invocationCount">
-    <configuration name="APITesting018_TestNG_Enabled" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.APITesting025_RestAssured_Payload_POJO">
+    <configuration name="APITesting022_TestNG_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9xAPIAutomationProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex04_testNGExamples.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex03_Assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_testNGExamples" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_testNGExamples.APITesting018_TestNG_Enabled" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Assertions.APITesting022_TestNG_Assertions" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -135,34 +134,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APITesting019_TestNG_AlwaysRun" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting022_TestNG_Assertions.test_softAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9xAPIAutomationProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex04_testNGExamples.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex03_Assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_testNGExamples" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_testNGExamples.APITesting019_TestNG_AlwaysRun" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting019_TestNG_AlwaysRun.test03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9xAPIAutomationProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex04_testNGExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_testNGExamples" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_testNGExamples.APITesting019_TestNG_AlwaysRun" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Assertions.APITesting022_TestNG_Assertions" />
+      <option name="METHOD_NAME" value="test_softAssertExample" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -170,16 +152,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APITesting020_TestNG_invocationCount" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting025_RestAssured_Payload_Map" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9xAPIAutomationProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex04_testNGExamples.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_testNGExamples" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_testNGExamples.APITesting020_TestNG_invocationCount" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.APITesting025_RestAssured_Payload_Map" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -187,10 +169,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-param-firefox.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting025_RestAssured_Payload_Map.test_POST" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9xAPIAutomationProgram" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-param-firefox.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.APITesting025_RestAssured_Payload_Map" />
+      <option name="METHOD_NAME" value="test_POST" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting025_RestAssured_Payload_POJO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9xAPIAutomationProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.APITesting025_RestAssured_Payload_POJO" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -199,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.APITesting020_TestNG_invocationCount" />
-        <item itemvalue="TestNG.APITesting019_TestNG_AlwaysRun" />
-        <item itemvalue="TestNG.APITesting019_TestNG_AlwaysRun.test03" />
-        <item itemvalue="TestNG.APITesting018_TestNG_Enabled" />
-        <item itemvalue="TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-param-firefox.xml" />
+        <item itemvalue="TestNG.APITesting025_RestAssured_Payload_POJO" />
+        <item itemvalue="TestNG.APITesting025_RestAssured_Payload_Map.test_POST" />
+        <item itemvalue="TestNG.APITesting025_RestAssured_Payload_Map" />
+        <item itemvalue="TestNG.APITesting022_TestNG_Assertions.test_softAssertExample" />
+        <item itemvalue="TestNG.APITesting022_TestNG_Assertions" />
       </list>
     </recent_temporary>
   </component>
@@ -240,13 +247,37 @@
       <option name="project" value="LOCAL" />
       <updated>1735188303973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="GET - All 13 dec">
+      <option name="closed" value="true" />
+      <created>1735416294352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735416294352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 Dec 2024" />
     <MESSAGE value="10 Dec2 2024" />
     <MESSAGE value="GET - All" />
-    <option name="LAST_COMMIT_MESSAGE" value="GET - All" />
+    <MESSAGE value="GET - All 13 dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="GET - All 13 dec" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/APITesting025_RestAssured_Payload_Map.java</url>
+          <line>26</line>
+          <properties class="com.thetestingacademy.ex05_payLoadManagement.APITesting025_RestAssured_Payload_Map" method="test_POST">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
