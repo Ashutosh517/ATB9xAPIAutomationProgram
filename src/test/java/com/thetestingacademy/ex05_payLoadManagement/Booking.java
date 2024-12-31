@@ -56,4 +56,7 @@ public class Booking {
     public void setBookingDates(BookingDates bookingDates) {
         this.bookingDates = bookingDates;
     }
+
+    public void setFirstname(String ashutosh11) {
+    }
 }

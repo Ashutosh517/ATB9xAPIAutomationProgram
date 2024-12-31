@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="556fc1e1-e822-47f9-8a4c-4225e62e3a45" name="Changes" comment="GET - All 13 dec">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting021_RestAssured_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting022_TestNG_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting023_RestAssertJ_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Assertions/APITesting024_RestAssured_TestNG_AssertJ_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/APITesting025_RestAssured_Payload_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/APITesting025_RestAssured_Payload_POJO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson/BookingDates.java" afterDir="false" />
+    <list default="true" id="556fc1e1-e822-47f9-8a4c-4225e62e3a45" name="Changes" comment="GET - All 16 dec">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson_demo/APITesting027_RestAssured_GSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson_demo/APITesting028_RestAssured_GSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson_demo/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson_demo/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/gson_demo/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/jackson_api/APITesting029_RestAssured_JackSON_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/jackson_api/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/jackson_api/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/jackson_api/Bookingdates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_payLoadManagement/Booking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +88,10 @@
     "TestNG.APITesting025_RestAssured_Payload_POJO.executor": "Run",
     "TestNG.APITesting025_RestAssured_Payload_Strings.executor": "Run",
     "TestNG.APITesting025_RestAssured_Payload_Strings.test_POST.executor": "Run",
+    "TestNG.APITesting028_RestAssured_GSON.executor": "Run",
+    "TestNG.APITesting028_RestAssured_GSON.test_Create_Booking_Positive.executor": "Run",
+    "TestNG.APITesting029_RestAssured_JackSON_API.executor": "Run",
+    "TestNG.APITesting029_RestAssured_JackSON_API.test_Create_Booking_Positive.executor": "Run",
     "TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-BDD-POST.xml.executor": "Run",
     "TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-NonBDD-GET.xml.executor": "Run",
     "TestNG.C:/Users/ashut/IdeaProjects/ATB9xAPIAutomationProgram/testng-group-prod.xml.executor": "Run",
@@ -109,84 +113,14 @@
       <recent name="C:\Users\ashut\IdeaProjects\ATB9xAPIAutomationProgram" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex05_payLoadManagement.jackson_api" />
+      <recent name="com.thetestingacademy.ex05_payLoadManagement.gson_demo" />
       <recent name="com.thetestingacademy.ex05_payLoadManagement" />
       <recent name="com.thetestingacademy.ex03_Assertions" />
       <recent name="com.thetestingacademy.ex04_testNGExamples" />
-      <recent name="com.thetestingacademy.ex02_RestAssuredBasics.DELETE" />
-      <recent name="com.thetestingacademy.ex02_RestAssuredBasics.PATCH" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.APITesting025_RestAssured_Payload_POJO">
-    <configuration name="APITesting022_TestNG_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9xAPIAutomationProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_Assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Assertions" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Assertions.APITesting022_TestNG_Assertions" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting022_TestNG_Assertions.test_softAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9xAPIAutomationProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_Assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Assertions" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Assertions.APITesting022_TestNG_Assertions" />
-      <option name="METHOD_NAME" value="test_softAssertExample" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting025_RestAssured_Payload_Map" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9xAPIAutomationProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.APITesting025_RestAssured_Payload_Map" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting025_RestAssured_Payload_Map.test_POST" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB9xAPIAutomationProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.APITesting025_RestAssured_Payload_Map" />
-      <option name="METHOD_NAME" value="test_POST" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.APITesting029_RestAssured_JackSON_API">
     <configuration name="APITesting025_RestAssured_Payload_POJO" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB9xAPIAutomationProgram" />
       <extension name="coverage">
@@ -204,13 +138,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="APITesting028_RestAssured_GSON" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9xAPIAutomationProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.gson_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement.gson_demo" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.gson_demo.APITesting028_RestAssured_GSON" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting028_RestAssured_GSON.test_Create_Booking_Positive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9xAPIAutomationProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.gson_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement.gson_demo" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.gson_demo.APITesting028_RestAssured_GSON" />
+      <option name="METHOD_NAME" value="test_Create_Booking_Positive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting029_RestAssured_JackSON_API" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9xAPIAutomationProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.jackson_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement.jackson_api" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.jackson_api.APITesting029_RestAssured_JackSON_API" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting029_RestAssured_JackSON_API.test_Create_Booking_Positive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB9xAPIAutomationProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex05_payLoadManagement.jackson_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex05_payLoadManagement.jackson_api" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex05_payLoadManagement.jackson_api.APITesting029_RestAssured_JackSON_API" />
+      <option name="METHOD_NAME" value="test_Create_Booking_Positive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.APITesting029_RestAssured_JackSON_API" />
+        <item itemvalue="TestNG.APITesting029_RestAssured_JackSON_API.test_Create_Booking_Positive" />
+        <item itemvalue="TestNG.APITesting028_RestAssured_GSON" />
+        <item itemvalue="TestNG.APITesting028_RestAssured_GSON.test_Create_Booking_Positive" />
         <item itemvalue="TestNG.APITesting025_RestAssured_Payload_POJO" />
-        <item itemvalue="TestNG.APITesting025_RestAssured_Payload_Map.test_POST" />
-        <item itemvalue="TestNG.APITesting025_RestAssured_Payload_Map" />
-        <item itemvalue="TestNG.APITesting022_TestNG_Assertions.test_softAssertExample" />
-        <item itemvalue="TestNG.APITesting022_TestNG_Assertions" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735416294352</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GET - All 16 dec">
+      <option name="closed" value="true" />
+      <created>1735476855537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735476855537</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,7 +275,8 @@
     <MESSAGE value="10 Dec2 2024" />
     <MESSAGE value="GET - All" />
     <MESSAGE value="GET - All 13 dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="GET - All 13 dec" />
+    <MESSAGE value="GET - All 16 dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="GET - All 16 dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
